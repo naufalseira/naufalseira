@@ -2,8 +2,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naufalseira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalseira" height="30" width="40" /></a>
-<a href="https://medium.com/@naseira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naseira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naufalseira" target="blank"><img align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="naufalseira" height="30" width="40" /></a>
+<a href="https://medium.com/@naseira" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@naseira" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,13 +23,7 @@
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="helm" width="40" height="40"/></a>
   <a href="https://rockylinux.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" alt="helm" width="40" height="40"/></a>
   <a href="https://wordpress.com/id/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="helm" width="40" height="40"/></a>
-  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" alt="helm" width="40" height="40"/></a>
-  
-  
-            
-          
-  
-          
+  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" alt="helm" width="40" height="40"/></a>         
 </p>
 
 <br>
