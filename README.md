@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="left">
+Hi, my name is Naufal Seira. I am a proactive computer science undergraduate with a passion for IT infrastructure and DevOps. I have experience designing, deploying, and managing scalable systems using technologies like Docker, Kubernetes, Helm, and Git. I am also familiar with Linux environments, virtual machines, cloud platforms (Azure, AWS, Digital Ocean), and some programming languages such as Python, Bash, Go, and SQL. My experience in collaborative team settings, coupled with excellent project management and communication abilities, enables me to drive impactful outcomes. I am constantly looking for new challenges and opportunities to learn and grow together, both in technical and non-technical aspects. 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naufalseira" target="blank"><img align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="naufalseira" height="30" width="40" /></a>
